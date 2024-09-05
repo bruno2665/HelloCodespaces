@@ -1,3 +1,3 @@
 # HelloCodespaces
 
-Dies ist ein erstes Test
+Dies ist ein erster Test
